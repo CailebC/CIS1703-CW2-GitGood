@@ -14,3 +14,6 @@ As suggested the roles within the team are as follows:
 
 Notes from Collaborators:
 Caileb wanna do anything but UI Design
+
+https://www.nngroup.com/articles/ten-usability-heuristics/
+nielsens heuristics for reference
