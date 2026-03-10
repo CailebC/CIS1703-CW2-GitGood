@@ -2,7 +2,7 @@
 
 This Group project is a collaborative effort from:
 
-Adam, Caileb, Corey, Erin, Harry & William
+XXX, Caileb, Corey & William
 
 As suggested the roles within the team are as follows:
 <ul>
