@@ -13,4 +13,4 @@ As suggested the roles within the team are as follows:
 </ul>
 
 Notes from Collaborators:
-Caileb wouldn't mind lead architect or QA Lead
+Caileb wanna do anything but UI Design
