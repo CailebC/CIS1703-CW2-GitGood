@@ -17,3 +17,5 @@ Caileb wanna do anything but UI Design
 
 https://www.nngroup.com/articles/ten-usability-heuristics/
 nielsens heuristics for reference
+
+https://peps.python.org/pep-0008/ PEP8 Guidelines for "Python Grammar Standards"
